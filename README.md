@@ -1,2 +1,2 @@
 # Machine-Learning
-Data 221 HW and Projects 
+Homework and Projects from Data 221
